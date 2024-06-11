@@ -23,6 +23,9 @@ The Call Center Trends Analysis - Power BI Dashboard empowers organizations to m
 - **Interactive Filters:** Explore data with interactive filters for date ranges, departments, agents, and other relevant dimensions.
 - **Customizable Visualizations:** The Power BI file can be easily customized and extended to include additional visualizations or metrics based on specific requirements.
 
+# Power BI Dashboard
+![Call Center Trends PowerBI_page-0001](https://github.com/AdityaSatheesan03/CallCenter-Trends-PowerBI/assets/137158225/02417e4c-6567-4cb2-984d-05c19ef4afb2)
+
 # Usage:
 To explore the dashboard, simply open the provided Power BI file using the Power BI Desktop application. Interact with the visualizations by filtering data based on different parameters such as date range, agent name, or topic of discussion.
 
